@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davi627
-- 👀 I’m interested in Angular,React ,Node
-- 🌱 I’m currently learning dotnet
+- 👀 I’m interested in Angular,React ,Node and dotnet
 - 💞️ I’m looking to collaborate on various Web systems development
 - 📫 How to reach me 0745404934
 - 😄 Pronouns: David Mbita
